@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **i do hacking**
 
+- 🌇 **Why are the most payloads written in C? So they dont C the payload coming**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
